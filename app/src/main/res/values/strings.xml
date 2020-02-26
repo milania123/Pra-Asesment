@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="persegiPanjang">Persegi Panjang</string>
+    <string name="segitiha">Segitiga</string>
+    <string name="panjang">Panjang</string>
+    <string name="lebar">Lebar</string>
+    <string name="hitung">Hitung</string>
+    <string name="share">Share</string>
+    <string name="luas">Luas = </string>
+    <string name="keliling">Keliling = </string>
+    <string name="alas">Alas</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="about">6706184002 Nanda D3RPLA-42-01</string>
+
+</resources>
